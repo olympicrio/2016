@@ -7,5 +7,7 @@ Pictograms have two versions:
 - l freee
 - p standart
 
+Named according to official documents(Rio 2016 Pictogram guidelines)
+
 ## Credits
 https://2016.life/летние-олимпийские-игры
