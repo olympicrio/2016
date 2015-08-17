@@ -3,5 +3,9 @@ The Rio Games have 64 pictograms – 41 Olympic and 23 Paralympic – and you ca
 
 Vector pictograms can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
+Pictograms have two versions:
+- l freee
+- p standart
+
 ## Credits
 https://2016.life/летние-олимпийские-игры
