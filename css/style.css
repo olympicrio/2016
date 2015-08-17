@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'rio';
+    src: url('../fonts/rio.eot');
+    src: url('../fonts/rio.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/rio.woff') format('woff'),
+         url('../fonts/rio.ttf') format('truetype'),
+         url('../fonts/rio.svg#rio') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class*='icon-']:before{
+	display: inline-block;
+   font-family: 'rio';
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale
+}
+.icon-rio-athletics:before{content:'\0041';}
+.icon-rio-badminton:before{content:'\0042';}
+.icon-rio-basketball:before{content:'\0043';}
+.icon-rio-boxing:before{content:'\0044';}
+.icon-rio-slalom:before{content:'\0045';}
+.icon-rio-sprint:before{content:'\0046';}
+.icon-rio-bmx:before{content:'\0047';}
+.icon-rio-road-cycling:before{content:'\0048';}
+.icon-rio-track-cycling:before{content:'\0049';}
+.icon-rio-mountain-bike:before{content:'\004A';}
+.icon-rio-marathon-swimming:before{content:'\004B';}
+.icon-rio-synchronised-swimming:before{content:'\004C';}
+.icon-rio-swimming:before{content:'\004D';}
+.icon-rio-water-polo:before{content:'\004E';}
+.icon-rio-diving:before{content:'\004F';}
+.icon-rio-fencing:before{content:'\0050';}
+.icon-rio-football:before{content:'\0051';}
+.icon-rio-artistic-gymnastics:before{content:'\0052';}
+.icon-rio-trampoline:before{content:'\0053';}
+.icon-rio-rhythmic-gymnastics:before{content:'\0054';}
+.icon-rio-golf:before{content:'\0055';}
+.icon-rio-handball:before{content:'\0056';}
+.icon-rio-equestrian-dressage:before{content:'\0057';}
+.icon-rio-equestrian-eventing:before{content:'\0058';}
+.icon-rio-equestrian-jumping:before{content:'\0059';}
+.icon-rio-hockey:before{content:'\005A';}
+.icon-rio-judo:before{content:'\0061';}
+.icon-rio-weightlifting:before{content:'\0062';}
+.icon-rio-wrestling:before{content:'\0063';}
+.icon-rio-modern-pentathlon:before{content:'\0064';}
+.icon-rio-rowing:before{content:'\0065';}
+.icon-rio-rugby:before{content:'\0066';}
+.icon-rio-taekwondo:before{content:'\0067';}
+.icon-rio-tennis:before{content:'\0068';}
+.icon-rio-table-tennis:before{content:'\0069';}
+.icon-rio-archery:before{content:'\006A';}
+.icon-rio-shooting:before{content:'\006B';}
+.icon-rio-triathlon:before{content:'\006C';}
+.icon-rio-sailing:before{content:'\006D';}
+.icon-rio-beach-volleyball:before{content:'\006E';}
+.icon-rio-volleyball:before{content:'\006F';}
